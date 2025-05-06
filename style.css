@@ -8,3 +8,10 @@ body{
 header li{
     list-style-type: none;
 }
+li a{
+    color: blueviolet;
+}
+
+li a:hover{
+    background-color: aqua;
+}
