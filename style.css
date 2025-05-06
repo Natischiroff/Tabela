@@ -9,7 +9,7 @@ header li{
     list-style-type: none;
 }
 li a{
-    color: blueviolet;
+    color: rgb(173, 134, 209);
 }
 
 li a:hover{
